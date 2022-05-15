@@ -122,7 +122,7 @@ dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 clear
 echo -e "\E[44;1;37m    INSTALAR PAINELWEB GESTOR-SSH     \E[0m" 
 echo ""
-echo -e "                 \033[1;31mBy @nandoslayer\033[1;36m"
+echo -e "                 \033[1;31mBy @GOMESNET\033[1;36m"
 echo ""
 read -p "DIGITE SUA SENHA ROOT: " pwdroot
 echo "root:$pwdroot" | chpasswd
